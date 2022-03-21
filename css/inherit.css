@@ -1,0 +1,12 @@
+body{
+    color : #654800;    /* Colors applies whole page - consider L1 */
+}
+h1{
+    color : #f93200;   /* Color applies h1 tage only - consider L2 */
+}
+a{
+    color : #03ff33;   /* L2 applies rest of the tags*/
+}
+div{
+    color : #ab0097;  /* L2 applies rest of the tags */
+}
