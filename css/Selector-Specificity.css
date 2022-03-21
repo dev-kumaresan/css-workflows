@@ -1,0 +1,18 @@
+#sec-one p{
+    color : #ff7c30;
+}
+#sec-one h1{
+    color : #27ff27;
+}
+#sec-one #two{
+    color : #f6ff16;
+}
+.sec-two p{
+    color : #005c43;
+}
+.sec-two h1{
+    color : #7e007b;
+}
+.sec-two .two{
+    color : #06f8ff;
+}
