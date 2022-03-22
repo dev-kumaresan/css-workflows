@@ -1,0 +1,16 @@
+.content h1{
+    font-weight: bolder;          /*L1*/
+    font-style: italic;
+    font-size: larger;
+}
+.content .s2{                     /*L2*/
+     color: #467e00;
+}
+
+
+.child{                           
+    color : #973100;
+}                                   /* We both either .child or .content .child (L3)*/
+.content .child{
+    color:#ff00ef;
+}
