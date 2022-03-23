@@ -1,0 +1,7 @@
+.one h1 + p
+{
+ color : green;
+}
+body{
+    background-color: black;
+}
