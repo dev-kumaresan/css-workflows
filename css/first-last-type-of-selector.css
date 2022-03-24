@@ -1,0 +1,6 @@
+div p:first-of-type{
+    color : yellow;
+}
+div p:last-of-type{
+    color : green;
+}
